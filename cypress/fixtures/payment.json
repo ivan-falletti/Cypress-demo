@@ -1,0 +1,17 @@
+{
+    "card": {
+      "number": "00000",
+      "expiration": {
+        "month": "1",
+        "year": "2025"
+      },
+      "name": "Bob Tester"
+    },
+    "billingAddress": {
+      "line1": "123 Main St",
+      "zipCode": "98118",
+      "city": "Seattle",
+      "state": "WA",
+      "phone": "555-555-5555"
+    }
+  }
